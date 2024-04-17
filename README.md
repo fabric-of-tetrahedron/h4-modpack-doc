@@ -1,4 +1,8 @@
-# Quartz v4
+# 四面体整合包策划书
+
+基于obsidian和quartz，minecraft界的“前所未有”好吧。
+
+## Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
