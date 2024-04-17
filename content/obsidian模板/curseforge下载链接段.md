@@ -1,0 +1,1 @@
+/files/all?page=1&pageSize=20&version=1.20.1&gameVersionTypeId=4
