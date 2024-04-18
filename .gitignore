@@ -9,3 +9,8 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+.androidide/
+gradle/
+gradlew
+gradlew.bat
