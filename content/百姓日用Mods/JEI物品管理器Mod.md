@@ -11,4 +11,4 @@
 - https://modrinth.com/mod/jei/versions?l=fabric&g=1.20.1
 
 所属整合包：
-- [[未使用]]
+- [[未使用列表]]

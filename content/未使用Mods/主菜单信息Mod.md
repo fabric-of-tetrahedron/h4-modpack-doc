@@ -1,5 +1,5 @@
 被以下Mod需要：
-- 不知道被哪个需要
+- [[Puzzle Mod]]（已内置）
 
 兼容性：
 - 
@@ -12,4 +12,4 @@
 - https://modrinth.com/mod/main-menu-credits/versions?l=fabric&g=1.20.1
 
 所属整合包：
-- [[前置列表]]
+- [[未使用列表]]

@@ -1,5 +1,7 @@
 兼容性：
-- 和未设置的[[钠Mod]]不兼容
+- （已修复）与[[钠Mod]]，[[瓦尔基里的天空Mod]]，中的一项不兼容
+  - https://github.com/maruohon/litematica/issues/501
+  - https://github.com/ValkyrienSkies/Valkyrien-Skies-2/issues/818
 
 网址：
 - https://www.mcmod.cn/class/2261.html

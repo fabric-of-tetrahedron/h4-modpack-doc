@@ -1,5 +1,5 @@
 被以下Mod需要：
-- 大概是一些能源相关的Mod
+- 大概是一些能源相关的Mod（已内置）
 
 兼容性：
 - 
@@ -11,4 +11,4 @@
 - https://maven.fabricmc.net/teamreborn/energy/
 
 所属整合包：
-- [[前置列表]]
+- [[未使用列表]]

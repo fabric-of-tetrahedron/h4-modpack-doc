@@ -5,7 +5,7 @@
 注：该作者的 [OptiFabric](https://www.mcmod.cn/class/1703.html) 以及 [Queadev](https://www.mcmod.cn/author/27648.html) 的 [QuEnchantment](https://www.mcmod.cn/class/7493.html) 都使用了该类库。
 
 被以下Mod需要：
-- 大概是有一些mod需要这个的
+- 大概是有一些mod需要这个的（但是已内置）
 
 兼容性：
 - 
@@ -18,4 +18,4 @@
 - https://github.com/Chocohead/Fabric-ASM/releases
 
 所属整合包：
-- [[前置列表]]
+- [[未使用列表]]
