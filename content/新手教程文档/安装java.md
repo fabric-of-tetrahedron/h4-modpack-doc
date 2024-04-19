@@ -3,6 +3,7 @@
 - 如果你需要版本17以上的JDK：[安装OpenJDK](#安装OpenJDK.md)
 - 如果你需要版本9到16的JDK：[安装SemeruJDK](#安装SemeruJDK)
 - 如果你能够注册Oracle账号：[安装官方Java](#安装官方Java)
+- 如果你追求使用最稳定的JDK： https://adoptium.net
 ## 安装Semeru8
 
 Semeru8 是一个开源的 Java Development Kit (JDK)，它基于 OpenJDK 8，并由 AdoptOpenJDK 社区维护。在本教程中，我们将介绍如何安装 Semeru8。
