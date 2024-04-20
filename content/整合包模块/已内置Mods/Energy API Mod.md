@@ -11,4 +11,4 @@
 - https://maven.fabricmc.net/teamreborn/energy/
 
 所属整合包：
-- [[未使用列表]]
+- [[已内置列表]]
