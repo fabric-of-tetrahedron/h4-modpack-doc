@@ -9,4 +9,4 @@
 - https://modrinth.com/mod/spice-of-fabric/versions?l=fabric&g=1.20.1
 
 所属整合包：
-- [[世界修复整合包]]
+- [[未使用列表]]
