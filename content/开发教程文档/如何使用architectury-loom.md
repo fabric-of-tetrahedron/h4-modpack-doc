@@ -1,0 +1,2 @@
+- 在 https://github.com/architectury/architectury-templates/releases 下载模板
+- 

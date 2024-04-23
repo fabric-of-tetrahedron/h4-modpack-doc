@@ -1,5 +1,4 @@
 本模组是[游戏中中文输入法冲突修复（1.7.2-1.12.2）](https://www.mcmod.cn/class/4006.html "游戏中中文输入法冲突修复")的高版本模组。
-
 #### 功能
 
 - 修复Minecraft在正常游戏的时候和中文，日文，韩文输入法冲突的现象。
@@ -29,11 +28,12 @@
   - 欢迎提出建议或反馈。
 
 兼容性：
-- 
+- [[输入法冲突修复Mod和笔记Mod]]
 
 网址：
 - https://www.mcmod.cn/class/3358.html
 - https://modrinth.com/mod/imblocker-original
+- https://github.com/reserveword/IMBlocker
 
 下载地址：
 - https://modrinth.com/mod/imblocker-original/versions?l=fabric&g=1.20.1

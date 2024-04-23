@@ -1,0 +1,2 @@
+- 在笔记页面中无法切换至中文输入法
+- 添加`com.chaosthedude.notes.gui.EditNoteScreen`到以下列表：`该列表中的GUI屏幕会激活输入法`

@@ -1,12 +1,10 @@
-开发中
-
-基于：
-- World-Curvature-Shaders
+[[警告：与整合包不兼容]]
 
 兼容性：
 - 
 
 网址：
+- https://www.mcmod.cn/class/4387.html
 - 
 
 下载地址：
