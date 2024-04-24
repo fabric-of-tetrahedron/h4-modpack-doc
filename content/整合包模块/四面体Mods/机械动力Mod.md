@@ -41,3 +41,9 @@ _**铁路系统**_**：** Create 设计了一种独立于原版铁轨和矿车�
 
 所属整合包：
 - [[四面体整合包]]
+
+附加信息：
+- 项目出现日期：2019年6月
+- 第一个YouTube视频： https://www.youtube.com/watch?v=tLYfjTb_bxM
+- 创始人： https://github.com/simibubi
+- 

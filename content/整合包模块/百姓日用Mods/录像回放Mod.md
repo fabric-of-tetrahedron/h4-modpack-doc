@@ -48,6 +48,8 @@
 
 网址：
 - https://modrinth.com/mod/replaymod
+- https://www.modrinth.com/mod/immersiveportals
+- https://github.com/iPortalTeam/ImmersivePortalsMod
 
 下载地址：
 - https://modrinth.com/mod/replaymod/versions?l=fabric&g=1.20.1

@@ -14,3 +14,5 @@ replit.nix
 gradle/
 gradlew
 gradlew.bat
+
+content/.obsidian
