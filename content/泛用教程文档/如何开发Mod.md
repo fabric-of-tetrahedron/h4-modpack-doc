@@ -1,0 +1,1 @@
+- 使用 https://fabricmc.net/develop/ 获取fabric工具的最新版本
