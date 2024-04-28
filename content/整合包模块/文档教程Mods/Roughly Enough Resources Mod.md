@@ -18,4 +18,4 @@ Roughly Enough Resources 类似于 [Just Enough Resources](https://www.mcmod.cn
 - https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources/files/all?page=1&pageSize=20&version=1.20.1&gameVersionTypeId=4
 
 所属整合包：
-- [[百姓日用整合包]]
+- [[文档教程整合包]]

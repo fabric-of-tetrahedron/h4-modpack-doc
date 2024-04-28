@@ -9,4 +9,4 @@
 - https://modrinth.com/mod/roughly-enough-professions-rep/versions?l=fabric&g=1.20.1
 
 所属整合包：
-- [[百姓日用整合包]]
+- [[文档教程整合包]]

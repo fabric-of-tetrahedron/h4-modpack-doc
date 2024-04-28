@@ -38,4 +38,4 @@ JEI(1.8.9及更高版本，在1.7.10为NEI)的附属Mod，用于快速计算复�
 - https://www.curseforge.com/minecraft/mc-mods/just-enough-calculation/files/all?page=1&pageSize=20&version=1.20.1&gameVersionTypeId=4
 
 所属整合包：
-- [[百姓日用整合包]]
+- [[文档教程整合包]]
