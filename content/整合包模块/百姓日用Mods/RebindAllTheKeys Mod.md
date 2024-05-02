@@ -4,6 +4,7 @@
 网址：
 - https://www.mcmod.cn/class/12707.html
 - https://modrinth.com/mod/rebind-all-the-keys
+- https://github.com/Minenash/RebindAllTheKeys
 
 下载地址：
 - https://modrinth.com/mod/rebind-all-the-keys/versions?l=fabric&g=1.20.1

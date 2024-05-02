@@ -1,10 +1,8 @@
-[[警告：自制Mod]]
-
 兼容性：
 - 
 
 网址：
-- 
+- https://www.mcmod.cn/class/1579.html
 
 下载地址：
 - 
