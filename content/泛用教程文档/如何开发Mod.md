@@ -1,1 +1,7 @@
 - 使用 https://fabricmc.net/develop/ 获取fabric工具的最新版本
+- 使用 https://fabricmc.net/develop/template/ 生成模板项目
+- 阅读维基百科：
+  - 英文版 https://fabricmc.net/wiki/start
+  - 中文版 https://fabricmc.net/wiki/zh_cn:start
+- 搜索时，请使用关键词：`minecraft fabric wiki` + `how to`（可选） + 你的疑问
+- 
