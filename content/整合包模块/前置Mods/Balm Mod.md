@@ -1,5 +1,6 @@
 被以下Mod需要：
 - [[传送石碑Mod]]
+- [[Default Options Mod]]
 
 兼容性：
 - 

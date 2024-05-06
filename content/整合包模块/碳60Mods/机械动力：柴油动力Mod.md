@@ -11,5 +11,4 @@
 - https://modrinth.com/mod/create-diesel-generators-fabric/versions?l=fabric&g=1.20.1
 
 所属整合包：
-- [[待实装列表]]
 - [[碳60整合包]]
