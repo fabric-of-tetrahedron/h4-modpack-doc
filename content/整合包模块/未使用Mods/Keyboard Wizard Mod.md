@@ -14,4 +14,4 @@
 - https://www.curseforge.com/minecraft/mc-mods/keyboard-wizard/files/all?page=1&pageSize=20&version=1.20.1&gameVersionTypeId=4
 
 所属整合包：
-- [[待实装列表]]
+- [[未使用列表]]

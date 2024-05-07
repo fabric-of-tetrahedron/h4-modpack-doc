@@ -14,4 +14,4 @@
 - https://github.com/lucko/fabric-permissions-api/releases
 
 所属整合包：
-- [[百姓日用整合包]]
+- [[前置列表]]

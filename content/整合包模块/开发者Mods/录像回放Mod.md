@@ -55,4 +55,4 @@
 - https://modrinth.com/mod/replaymod/versions?l=fabric&g=1.20.1
 
 所属整合包：
-- [[百姓日用整合包]]
+- [[开发者整合包]]
