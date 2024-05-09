@@ -1,5 +1,5 @@
 被以下Mod需要：
-- [[Meteor Mod]]
+- [[Meteor Mod]]（已内置）
 
 兼容性：
 - 
