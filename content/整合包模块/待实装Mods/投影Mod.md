@@ -3,7 +3,7 @@
 - [[共享原理图Mod]]
 
 兼容性：
-- （已修复）与[[钠Mod]]，[[瓦尔基里的天空Mod]]，中的一项不兼容
+- （已修复）~~与[[钠Mod]]和[[瓦尔基里的天空Mod]]一起使用时不兼容~~
   - https://github.com/maruohon/litematica/issues/501
   - https://github.com/ValkyrienSkies/Valkyrien-Skies-2/issues/818
 - 与[[钠Mod]]，[[瓦尔基里的天空Mod]]，一起使用时，将会导致渲染异常
