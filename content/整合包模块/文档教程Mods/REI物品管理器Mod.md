@@ -1,3 +1,8 @@
+被以下Mod需要：
+- [[Roughly Enough Resources Mod]]
+- [[REI工作方块Mod]]
+- [[JEI药水效果Mod]]
+
 兼容性：
 - 
 
