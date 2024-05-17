@@ -6,6 +6,7 @@
 - [[REI工作方块Mod]]
 - [[Alto Clef Mod]]
 - [[Baritone Mod]]
+- [[笔记Mod]]
 
 兼容性：
 - 
