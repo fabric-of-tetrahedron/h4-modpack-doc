@@ -9,6 +9,8 @@
   - https://github.com/maruohon/litematica/issues/501
   - https://github.com/ValkyrienSkies/Valkyrien-Skies-2/issues/818
 - 与[[钠Mod]]，[[瓦尔基里的天空Mod]]，一起使用时，将会导致渲染异常
+  - 解决方案：在不使用投影时[[使用投影Mod#关闭原理图渲染|关闭原理图渲染]]
+  - https://github.com/maruohon/litematica/issues/737
 
 网址：
 - https://www.mcmod.cn/class/2261.html
