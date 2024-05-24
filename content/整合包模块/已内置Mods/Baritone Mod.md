@@ -23,5 +23,5 @@
 - https://github.com/cabaletta/baritone
 
 所属整合包：
-- [[待实装列表]]
 - [[百姓日用整合包]]
+- [[已内置列表]]

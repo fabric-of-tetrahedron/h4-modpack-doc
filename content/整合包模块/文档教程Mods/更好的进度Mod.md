@@ -9,5 +9,4 @@
 - https://modrinth.com/mod/better-advancements/versions?l=fabric&g=1.20.1
 
 所属整合包：
-- [[待实装列表]]
 - [[文档教程整合包]]

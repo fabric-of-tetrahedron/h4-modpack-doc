@@ -9,5 +9,4 @@
 - https://www.modrinth.com/mod/forcecloseworldloadingscreen/versions?l=fabric&g=1.20.1
 
 所属整合包：
-- [[待实装列表]]
 - [[百姓日用整合包]]
