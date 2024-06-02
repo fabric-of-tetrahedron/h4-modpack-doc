@@ -9,7 +9,8 @@ Terralith 是一个数据包（打包为 Fabric、Quilt 和 Forge 模组），�
 在 1.18 及以后，Terralith 和[[超多生物群系Mod]]、[你将去的生物群系](https://www.mcmod.cn/class/1618.html "你将去的生物群系")兼容。
 
 兼容性：
-- 
+- [[Terralith Mod]]和超平坦世界生成功能不兼容
+  - https://github.com/Stardust-Labs-MC/Terralith/issues/113
 
 网址：
 - https://www.mcmod.cn/class/4557.html
