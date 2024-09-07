@@ -36,6 +36,7 @@ const config: QuartzConfig = {
           secondary: "#93C957",
           tertiary: "#90C455",
           highlight: "rgba(137, 189, 82, 0.1)",//#8F9FA9
+          textHighlight: "#fff23688",
         },
         darkMode: {
           light: "#161618",
@@ -46,6 +47,7 @@ const config: QuartzConfig = {
           secondary: "#89BD52",
           tertiary: "#84B54E",
           highlight: "rgba(137, 189, 82, 0.15)",
+          textHighlight: "#b3aa0288",
         },
       },
     },
@@ -56,7 +58,6 @@ const config: QuartzConfig = {
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"],
       }),
-      Plugin.Latex({ renderEngine: "katex" }),
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
@@ -69,6 +70,7 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
+      Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
