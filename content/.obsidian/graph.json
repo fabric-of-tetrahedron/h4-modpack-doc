@@ -1,0 +1,128 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:四面体Mods",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:兼容性文档",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:整合包列表 ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:百姓日用Mods ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:世界修复Mods",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:碳60Mods",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:性能优化Mods ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "path:前置Mods ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    },
+    {
+      "query": "path:未使用Mods ",
+      "color": {
+        "a": 1,
+        "rgb": 13671066
+      }
+    },
+    {
+      "query": "path:战争Mods ",
+      "color": {
+        "a": 1,
+        "rgb": 9636619
+      }
+    },
+    {
+      "query": "path:警告类型  ",
+      "color": {
+        "a": 1,
+        "rgb": 13447730
+      }
+    },
+    {
+      "query": "path:整合包模块/已内置Mods  ",
+      "color": {
+        "a": 1,
+        "rgb": 13158600
+      }
+    },
+    {
+      "query": "path:整合包模块/待实装Mods  ",
+      "color": {
+        "a": 1,
+        "rgb": 11054847
+      }
+    },
+    {
+      "query": "path:整合包模块/文档教程Mods  ",
+      "color": {
+        "a": 1,
+        "rgb": 5611564
+      }
+    },
+    {
+      "query": "path:版本更新记录 ",
+      "color": {
+        "a": 1,
+        "rgb": 2524597
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 100,
+  "scale": 2.9030989544096504,
+  "close": true
+}
