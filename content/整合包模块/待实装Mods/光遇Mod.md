@@ -14,6 +14,12 @@
 - 玩家可以在进入服务器时选择是否当光之子
   - 以及在进行[[克隆Mod]]的操作时
 
+底座和参考项目：
+- [Icarus - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/5401.html)
+- [ThatSkyInteractions - Minecraft Mod](https://modrinth.com/mod/thatskyinteractions)
+- [Sky: Origins - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/13530.html)
+- 
+
 兼容性：
 - 
 
