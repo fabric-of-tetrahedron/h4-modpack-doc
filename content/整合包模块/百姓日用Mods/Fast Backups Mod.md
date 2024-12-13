@@ -9,7 +9,7 @@ Fast backs 快速备份是一个支持增量备份的 Fabric 模组。
 - 自动计划备份；
 - 简单恢复备份；
 - 备份删减；
-- LuckPerms 支持；
+- [[LuckPerms Mod]] 支持；
 - 可工作在客户端和专用服务器；
 - 可工作在 Linux，Windows 和 Mac 系统；
 - 易用的命令；
