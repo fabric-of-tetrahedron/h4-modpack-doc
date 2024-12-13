@@ -13,3 +13,5 @@ replit.nix
 /content/.obsidian/workspace.json
 
 /content/.obsidian/plugins/
+
+/.idea/
