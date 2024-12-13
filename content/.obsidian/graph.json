@@ -111,6 +111,13 @@
         "a": 1,
         "rgb": 2524597
       }
+    },
+    {
+      "query": "path:整合包模块/待开发Mods  ",
+      "color": {
+        "a": 1,
+        "rgb": 11915913
+      }
     }
   ],
   "collapse-display": false,
